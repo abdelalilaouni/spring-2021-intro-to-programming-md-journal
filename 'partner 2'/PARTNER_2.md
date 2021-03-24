@@ -1,4 +1,4 @@
-# Hello! My  is <name>
+# Hello! My name is <name>
 
 This is my journal-playground where I want to keep track of today´s class.
 

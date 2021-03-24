@@ -1,6 +1,8 @@
 
 I really like Github but I do not understand:
 
+i'dont understand what's the difference between branch and origin/main
+
 
 ## Questions?
 
